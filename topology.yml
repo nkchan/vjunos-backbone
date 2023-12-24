@@ -1,0 +1,11 @@
+name: lab
+mgmt: 
+    bridge: virbr0
+topology:
+    nodes:
+     node:
+         kind: juniper_vjunosswitch
+         image: vrnetlab/vr-vjunosswitch:23.2R1.14
+         startup-config: clab-lab/node/config/node.cfg
+    links:
+        - endpoints: ["node:eth1","node:eth2"]

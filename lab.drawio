@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-12-24T07:34:37.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="dKp4AeqYE2NSpzssRBo1" version="22.1.11" type="device">
+<mxfile host="Electron" modified="2023-12-24T09:35:43.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="PGb6mAaIL_KCEs0RaDG7" version="22.1.11" type="device">
   <diagram name="ページ1" id="0GTkpOpO7OopeRpnRRyq">
     <mxGraphModel dx="1376" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="sopoUnnTEJ3EenJI_9PH-21" value="lo .102" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sopoUnnTEJ3EenJI_9PH-22" value="lo . 10.0.0.0/24&lt;br&gt;interfaceはすべてlt-0/1/10なので省略　unitとIPを記載" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sopoUnnTEJ3EenJI_9PH-22" value="lo . 10.0.1.0/24&lt;br&gt;interfaceはすべてlt-0/1/10なので省略　unitとIPを記載" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="150" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sopoUnnTEJ3EenJI_9PH-23" value="凡例:&lt;br&gt;10.1.0.1&lt;br&gt;unit 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
